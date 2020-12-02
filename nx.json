@@ -29,6 +29,9 @@
     "privacy-track-record-e2e": {
       "tags": [],
       "implicitDependencies": ["privacy-track-record"]
+    },
+    "components": {
+      "tags": []
     }
   }
 }
